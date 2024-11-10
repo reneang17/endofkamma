@@ -62,13 +62,13 @@ div {
 header {
     display: block;
     width: 100%;
+    text-align: center;
 }
 
 #headerImage {
     max-width: 9in;
+    width: 100%; /* Ensures it scales to 100% of the container or up to the max-width */
     height: auto;
-    display: block;
-    margin: 0 auto;
 }
 
 #randomPageLink {
