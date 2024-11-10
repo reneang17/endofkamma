@@ -1,7 +1,7 @@
 
 # License Information
 
-## About the license of distribution of the *Dhammapada Reflections Series* and *A Dhammapada for Contemplation* by Ajahn Munindo used in this repo/website
+## About the license of distribution of the *Kamma and the End of Kamma* by Ajahn Sucitto used in this repo/website
 
 Thee publications are made available for free distribution by Amaravati Publications.
 
