@@ -26,7 +26,7 @@ These works are distributed under a [Creative Commons Attribution-NonCommercial-
 **Please Note:**
 This project is created and maintained with the intent to facilitate access to these texts in the spirit of free sharing and non-commercial distribution. Any use of these materials should strictly adhere to the principles outlined by the respective Creative Commons license.
 
-## About the license of the material in the links to [http://www.ratanagiri.org.uk](http://www.ratanagiri.org.uk)
+
 
 
 **Commitment to Free Distribution:**
@@ -35,6 +35,10 @@ Like [amaravati.org](https://amaravati.org), this project is committed to distri
 
 ## About the credits and license of the photo used in this website
 
+The other pictures were taken from pexels.com, specifically from [here](https://www.pexels.com/photo/blooming-lotuses-among-foliage-26826128/) and from [here](https://www.pexels.com/photo/pink-lotus-flowers-2171292/)
+
+Please note that depicted content is protected by privacy, copyright or trademark rights. I use it in the terms explained in the terms explain at this [here](https://help.pexels.com/hc/en-us/articles/360042295214-Can-I-use-the-photos-and-videos-for-a-commercial-project#:~:text=Yes%2C%20all%20photos%20and%20videos,%2C%20product%2C%20or%20anywhere%20else.
+In particular, here we explicitly state that the authors are not endorsing or taking part in this free, non-comersial website. 
 
 
 ## Everything else not listed above has an open source MIT license as follows
