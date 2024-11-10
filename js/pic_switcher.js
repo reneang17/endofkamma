@@ -3,13 +3,13 @@ function setHeaderImage() {
     const currentHour = new Date().getHours();
 
     if (currentHour >= 6 && currentHour < 12) {
-        headerImage.src = "assets/pexels-70588695-26826128.jpg"; // Replace with your morning image path
+        headerImage.src = "assets/kintsugi.jpeg"; // Replace with your morning image path
     }
     else if (currentHour >= 19) {
-        headerImage.src = "assets/pexels-70588695-26826128.jpg";
+        headerImage.src = "assets/kintsugi.jpeg";
     }
     else {
-        headerImage.src = "assets/pexels-70588695-26826128.jpg"; // Replace with your evening image path
+        headerImage.src = "assets/kintsugi.jpeg"; // Replace with your evening image path
     }
 }
 

@@ -50,6 +50,10 @@ class PDFViewer {
         document.getElementById(this.controls.pageNum).addEventListener('keydown', (event) => this.onPageNumKeydown(event));
         document.getElementById('chapter-select').addEventListener('change', (e) => this.gotoChapter(e.target.value));
         document.getElementById(this.controls.downloadPDF).addEventListener('click', () => this.downloadPDF());
+
+        // Add click and touchend events to canvas for advancing to the next page
+        this.canvas.addEventListener('click', () => this.onCanvasClick());
+        this.canvas.addEventListener('touchend', () => this.onCanvasClick());
     }
 
     onRandomPage() {
@@ -78,6 +82,11 @@ class PDFViewer {
         }
         this.pageNum++;
         this.renderPage(this.pageNum);
+    }
+
+    onCanvasClick() {
+        // Trigger next page functionality when the canvas is clicked or tapped
+        this.onNextPage();
     }
 
     gotoPage() {
