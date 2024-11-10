@@ -65,9 +65,8 @@ header {
 }
 
 #headerImage {
-    width: 100%;
+    max-width: 9in;
     height: auto;
-    max-height: 2.5in;
 }
 
 #randomPageLink {
