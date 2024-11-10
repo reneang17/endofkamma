@@ -67,6 +67,7 @@ header {
 #headerImage {
     width: 100%;
     height: auto;
+    max-height: 2.5in;
 }
 
 #randomPageLink {
@@ -76,7 +77,7 @@ header {
 #pdf-viewer-container {
     width: 100vw;
     /* Limits the width to 90% of the viewport width */
-    max-width: 7.5in;
+    max-width: 9in;
     /* Keeps the maximum width at 8 inches */
     height: auto;
     /* Adjust height dynamically based on content */
