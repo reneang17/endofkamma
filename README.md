@@ -9,9 +9,9 @@ Thee publications are made available for free distribution by Amaravati Publicat
 - Kamma and the end of Kamma by Ajahn Sucitto ("./books_and_resources/Kamma-and-the-End-of-Kamma-Ajahn-Sucitto-2021.pdf")
 
 
-**Download Originals:**
+**Download Original:**
 You can download the original by simply clicking above on Open in a new Tab.
-If you want a hard copy of the book, you can pick one up from Amaravati Monastery or Cittaviveka Monastery. Other books from the Forest Tradition can be downloaded through [forestsangha.org](forestsangha.org) or [amaravati.org](amaravati.org).
+If you want a hard copy of the book, you can pick one up from Amaravati Monastery or Cittaviveka Monastery. Other books from the Forest Tradition can be downloaded through [forestsangha.org](forestsangha.org) and from [amaravati.org](amaravati.org).
 
 
 **License or those books**
