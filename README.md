@@ -10,7 +10,9 @@ Thee publications are made available for free distribution by Amaravati Publicat
 
 
 **Download Originals:**
-This book is freely available for download from the Amaravati Buddhist Monastery at [Amaravati Publications](https://media.amaravati.org/en/dhamma-books/kamma-and-the-end-of-kamma-2nd-ed).
+You can download the original by simply clicking above on Open in a new Tab.
+If you want a hard copy of the book, you can pick one up from Amaravati Monastery or Cittaviveka Monastery. Other books from the Forest Tradition can be downloaded through (forestsangha.org)[forestsangha.org] or (amaravati.org)[amaravati.org].
+
 
 **License or those books**
 These works are distributed under a [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
@@ -25,7 +27,6 @@ These works are distributed under a [Creative Commons Attribution-NonCommercial-
 
 **Please Note:**
 This project is created and maintained with the intent to facilitate access to these texts in the spirit of free sharing and non-commercial distribution. Any use of these materials should strictly adhere to the principles outlined by the respective Creative Commons license.
-
 
 
 
