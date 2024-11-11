@@ -11,7 +11,7 @@ Thee publications are made available for free distribution by Amaravati Publicat
 
 **Download Originals:**
 You can download the original by simply clicking above on Open in a new Tab.
-If you want a hard copy of the book, you can pick one up from Amaravati Monastery or Cittaviveka Monastery. Other books from the Forest Tradition can be downloaded through (forestsangha.org)[forestsangha.org] or (amaravati.org)[amaravati.org].
+If you want a hard copy of the book, you can pick one up from Amaravati Monastery or Cittaviveka Monastery. Other books from the Forest Tradition can be downloaded through [forestsangha.org](forestsangha.org) or [amaravati.org](amaravati.org).
 
 
 **License or those books**
@@ -36,7 +36,7 @@ Like [amaravati.org](https://amaravati.org), this project is committed to distri
 
 ## About the credits and license of the photo used in this website
 
-The kintgsugi repaired bowl image is a courtesy of Marco Montalti and has all rights reserved. Discover more of his at (www.realkintsugi.com)[www.realkintsugi.com]
+The kintgsugi repaired bowl image is a courtesy of Marco Montalti and has all rights reserved. Discover more of his at [www.realkintsugi.com](www.realkintsugi.com)
 
 The other pictures were taken from pexels.com, specifically from [here](https://www.pexels.com/photo/blooming-lotuses-among-foliage-26826128/) and from [here](https://www.pexels.com/photo/pink-lotus-flowers-2171292/)
 
