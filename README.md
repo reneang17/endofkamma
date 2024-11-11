@@ -11,7 +11,7 @@ Thee publications are made available for free distribution by Amaravati Publicat
 
 **Download Original:**
 You can download the original by simply clicking above on Open in a new Tab.
-If you want a hard copy of the book, you can pick one up from Amaravati Monastery or Cittaviveka Monastery. Other books from the Forest Tradition can be downloaded through [forestsangha.org](https://forestsangha.org) and from [amaravati.org](https://amaravati.org).
+If you want a hard copy of the book, you can pick one up from Amaravati Monastery or Cittaviveka Monastery. Other books from the Forest Tradition can be downloaded through [forestsangha.org](https://forestsangha.org) and through [amaravati.org](https://amaravati.org).
 
 
 **License or those books**
