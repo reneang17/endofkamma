@@ -362,7 +362,8 @@ h1 {
 }
 
 #chapter-select {
-    max-width: 50px;
+    max-width: auto;
+    max-width: 100px;
 }
 
 
