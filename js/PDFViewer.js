@@ -8,8 +8,6 @@ class PDFViewer {
         this.pageRendering = false;
         this.minPageNum = controls.minPage || 1;
         this.maxPageNum = controls.maxPage || 204;
-        this.randomMin = controls.randomMin || 19;  // Default minimum random page
-        this.randomMax = controls.randomMax || 183; // Default maximum random page
     }
 
     async renderPage(num) {
@@ -42,7 +40,6 @@ class PDFViewer {
     }
 
     setupEventListeners() {
-        document.getElementById(this.controls.randomPage).addEventListener('click', () => this.onRandomPage());
         document.getElementById(this.controls.prevPage).addEventListener('click', () => this.onPrevPage());
         document.getElementById(this.controls.nextPage).addEventListener('click', () => this.onNextPage());
         document.getElementById(this.controls.goPage).addEventListener('click', () => this.gotoPage());
@@ -50,18 +47,6 @@ class PDFViewer {
         document.getElementById(this.controls.pageNum).addEventListener('keydown', (event) => this.onPageNumKeydown(event));
         document.getElementById('chapter-select').addEventListener('change', (e) => this.gotoChapter(e.target.value));
         document.getElementById(this.controls.downloadPDF).addEventListener('click', () => this.downloadPDF());
-    }
-
-    onRandomPage() {
-        const excludedNumbers = [40, 46, 60, 66, 72, 100, 116, 136, 142];
-        let randomNumber;
-
-        do {
-            randomNumber = Math.floor(Math.random() * (this.randomMax - this.randomMin + 1)) + this.randomMin;
-        } while (excludedNumbers.includes(randomNumber));
-
-        this.pageNum = randomNumber;  // Update the current page number
-        this.renderPage(randomNumber);
     }
 
     onPrevPage() {
@@ -86,7 +71,7 @@ class PDFViewer {
             this.pageNum = pageNumber;
             this.renderPage(this.pageNum);
         } else {
-            alert('Invalid page number. Valid pages range from 1 to 182.');
+            alert('Invalid page number. Valid pages range from 1 to 204.');
         }
     }
 
