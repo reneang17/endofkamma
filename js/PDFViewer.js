@@ -79,6 +79,17 @@ class PDFViewer {
 
     // Retain the existing canvas click-to-next-page functionality
     this.canvas.addEventListener("click", () => this.onNextPage());
+
+    // Add new event listener for keyboard navigation
+    document.addEventListener("keydown", (event) => this.onKeyPress(event));
+  }
+
+  onKeyPress(event) {
+    if (event.key === "ArrowRight") {
+      this.onNextPage(); // Right arrow key for next page
+    } else if (event.key === "ArrowLeft") {
+      this.onPrevPage(); // Left arrow key for previous page
+    }
   }
 
   onTouchStart(event) {
